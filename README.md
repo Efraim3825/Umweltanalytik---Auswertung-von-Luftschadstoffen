@@ -1,2 +1,4 @@
 # Umweltanalytik - Auswertung von Luftschadstoffen
-ein Projektportfolio für die Bewerbung als Data Analyst
+Ein Visualisierungsprojekt, das Messreihen der TU Berlin zu Ruß und Stickoxiden auswertet.
+
+Python, Pandas, Matplotlib, Excel
